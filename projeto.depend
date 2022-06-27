@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1656357077 source:/var/www/projeto/Banco.cpp
+	"Banco.h"
+
+1656357077 /var/www/projeto/Banco.h
+	<iostream>
+
+1656357313 source:/var/www/projeto/main.cpp
+	"Banco.h"
+
